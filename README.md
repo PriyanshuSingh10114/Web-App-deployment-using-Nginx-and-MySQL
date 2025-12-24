@@ -45,7 +45,7 @@ Verify:
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+https://github.com/PriyanshuSingh10114/Web-App-deployment-using-Nginx-and-MySQL.git
 ```
 
 2. Build the app
